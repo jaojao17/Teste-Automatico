@@ -1,6 +1,6 @@
 Comecei o dia com uma atividade sobre teste automotizado, entao encarei como um desafio porque era o meu primeiro contato.
 
-O primeiro teste achei simples era so entrar na pagina.
+O primeiro teste achei simples, era so entrar na pagina.
 
 O proximo era para saber se as pessoas estavam preenchido os campos de cadastro corretamente, se não, aparecia uma mensagem para ele colocar os dados corretos.
 
